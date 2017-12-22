@@ -1,0 +1,37 @@
+#all{background:url(back.jpg) no-repeat;
+     background-position:center;
+     background-size:100%;
+text-align: center; }
+#top{vertical-align: middle;font-weight: 45px;}
+span{font-size:45px;font-family:Microsoft YaHei;}
+#introduction{font-size: 25px;}
+#passage{font-size: 15px;}
+h1{font-size:15px;}
+h2{font-size:15px;}
+h3{font-size:15px;}
+h4{font-size:15px;}
+
+
+.bottom1{width: 100px;
+        height: 45px;
+        margin: 20px;
+        line-height: 0px;
+        font-size: 25px;
+        vertical-align: middle;
+        display:inline;
+    }
+#what{  border-style: dashed;
+        border-color:red;
+      }
+.bottom2{width: 100px;
+        height: 45px;
+        margin: 20px;
+        line-height: 0px;
+        font-size: 25px;
+        vertical-align: middle;
+        display:inline;
+    }
+#why{   border-style: dashed;
+        border-color:red;
+        
+}

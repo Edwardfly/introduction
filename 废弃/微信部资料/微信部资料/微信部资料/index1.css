@@ -1,0 +1,36 @@
+#all{background:url(背景.jpg) no-repeat;
+     background-position:center;
+	 background-size:100%}
+#top{vertical-align: middle;font-weight: 95px;}
+span{font-size:95px;font-family:Microsoft YaHei;}
+#introduction{font-size: 45px;}
+#passage{font-size: 45px;}
+h1{font-size:65px;}
+h2{font-size:65px;}
+h3{font-size:65px;}
+h4{font-size:65px;}
+
+
+.bottom1{width: 500px;
+        height: 185px;
+        margin: 20px;
+        line-height: 0px;
+        font-size: 50px;
+        vertical-align: middle;
+        display:inline;
+    }
+#what{  border-style: dashed;
+        border-color:red;
+      }
+.bottom2{width: 500px;
+        height: 185px;
+        margin: 20px;
+        line-height: 0px;
+        font-size: 50px;
+        vertical-align: middle;
+        display:inline;
+    }
+#why{   border-style: dashed;
+        border-color:red;
+        
+}

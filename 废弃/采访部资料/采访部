@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="index2.css" rel="stylesheet" type="text/css" />
+<title>采访部</title>
+</head>
+<body>
+<div id="top">
+<img src="话筒.jpg" title="话筒"  style="width:95px;height:65px;"><span>采访部</span>
+</div>
+</body>
+</html>

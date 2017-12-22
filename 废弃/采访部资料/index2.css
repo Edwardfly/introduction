@@ -1,0 +1,42 @@
+
+body {
+	background-color: #fff;
+	background-image: url(back.jpg);/*use full url so both ie45mac and nn4 can find it. */
+	background-repeat: no-repeat;
+	background-position: top left;
+	margin: 0;
+	padding: 40px 5% 5% 5%;
+}
+
+#top{vertical-align: middle;font-weight: 35px;}
+span{font-size:45px;font-family:Microsoft YaHei;}
+#introduction{color: red;
+	font-size:25px;
+
+
+}
+.fenduan{display: inline;
+	font-size:15px;
+}
+
+#top{
+	margin-top: 0px;
+    padding-top: 0px;
+    }
+#bottom{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+.bottom2{width: 500px;
+        height: 185px;
+        margin: 20px;
+        line-height: 0px;
+        font-size: 25px;
+        vertical-align: middle;
+        display:inline;
+    }
+#why{   border-style: dashed;
+        border-color:red;
+        
+}
+#humanism{font-size:15px;}
